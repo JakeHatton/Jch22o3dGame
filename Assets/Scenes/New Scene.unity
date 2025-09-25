@@ -171,6 +171,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (26)
@@ -297,6 +301,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (15)
@@ -441,6 +449,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (28)
@@ -506,6 +518,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (30)
@@ -643,7 +659,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -736,6 +752,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (3)
@@ -793,6 +813,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (7)
@@ -858,6 +882,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (36)
@@ -999,7 +1027,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1157,6 +1185,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (9)
@@ -1417,6 +1449,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (165)
@@ -1489,7 +1525,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1727,7 +1763,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1957,7 +1993,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2065,7 +2101,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2562,6 +2598,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (22)
@@ -2646,7 +2686,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 119.79
+      value: 119.87
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2654,7 +2694,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 106.51
+      value: 110.26
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2684,6 +2724,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (158)
@@ -2741,6 +2785,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (8)
@@ -2798,6 +2846,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (6)
@@ -2890,7 +2942,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 139.6
+      value: 138.92
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2898,7 +2950,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 106.52
+      value: 109.83
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2928,6 +2980,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (160)
@@ -3249,6 +3305,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (21)
@@ -3841,7 +3901,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3969,7 +4029,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 129.66
+      value: 129.71
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3977,7 +4037,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 106.51
+      value: 104.01
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4007,6 +4067,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (159)
@@ -4089,6 +4153,24 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+--- !u!1 &565153619 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+  m_PrefabInstance: {fileID: 1069397667}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &565153620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 565153619}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e1a4e2b95bb534489e4caf2ebe8f16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: {x: 0, y: 0, z: 50}
 --- !u!1001 &598923275
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4466,6 +4548,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (14)
@@ -4538,7 +4624,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5049,7 +5135,7 @@ PrefabInstance:
     - target: {fileID: 270179226297562203, guid: dd290bee28ae59848bcd92e46ac03feb, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
+      objectReference: {fileID: 2100000, guid: ef908017cfdfbc64580ee89d1f5b0920, type: 2}
     - target: {fileID: 5830870978515165004, guid: dd290bee28ae59848bcd92e46ac03feb, type: 3}
       propertyPath: m_Name
       value: Floor
@@ -5159,6 +5245,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (16)
@@ -5614,6 +5704,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (172)
@@ -5671,6 +5765,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (12)
@@ -5698,7 +5796,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 100.09
+      value: 99.84
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5706,7 +5804,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 106.49
+      value: 110.45
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5736,6 +5834,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (156)
@@ -5808,7 +5910,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5939,6 +6041,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (170)
@@ -6719,7 +6825,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6885,6 +6991,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -48.827
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ef908017cfdfbc64580ee89d1f5b0920, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (166)
@@ -7152,7 +7262,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -7331,6 +7441,78 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+--- !u!1001 &1069397667
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 162.43
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.85
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 106.08
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      propertyPath: m_Name
+      value: concrete_cat_statue_1k (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 565153620}
+  m_SourcePrefab: {fileID: 100100000, guid: efc24d48fe7bd94449dfe936a166e29e, type: 3}
 --- !u!1001 &1073613360
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7524,7 +7706,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -7961,7 +8143,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.201653
+      value: 6.87
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7969,7 +8151,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 101.95
+      value: 102.01
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalRotation.w
@@ -8140,7 +8322,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8237,6 +8419,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (32)
@@ -8264,7 +8450,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 109.94
+      value: 109.96
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8272,7 +8458,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 106.51
+      value: 104.12
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalRotation.w
@@ -8302,6 +8488,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (157)
@@ -8363,6 +8553,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (24)
@@ -8420,6 +8614,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (11)
@@ -8557,7 +8755,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8658,6 +8856,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (169)
@@ -8849,6 +9051,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (20)
@@ -8974,7 +9180,7 @@ Transform:
   m_GameObject: {fileID: 1364482641}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 21.09, y: 1.53, z: 102.51}
+  m_LocalPosition: {x: 13.32, y: 1.53, z: 125.86}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9036,6 +9242,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (98)
@@ -9275,7 +9485,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9513,7 +9723,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9679,6 +9889,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (171)
@@ -9946,7 +10160,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10047,6 +10261,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (19)
@@ -10169,6 +10387,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (162)
@@ -10407,6 +10629,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (163)
@@ -10472,6 +10698,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -48.826
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ef908017cfdfbc64580ee89d1f5b0920, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (27)
@@ -10934,7 +11164,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11107,7 +11337,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11215,7 +11445,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11453,7 +11683,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11749,6 +11979,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (13)
@@ -11810,6 +12044,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (18)
@@ -12001,6 +12239,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (17)
@@ -12062,6 +12304,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (29)
@@ -12119,6 +12365,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (10)
@@ -12166,15 +12416,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2753722846259439681, guid: 070095bfedf139b42979536db6a4f68e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 16.31
+      value: 10.55
       objectReference: {fileID: 0}
     - target: {fileID: 2753722846259439681, guid: 070095bfedf139b42979536db6a4f68e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.69
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 2753722846259439681, guid: 070095bfedf139b42979536db6a4f68e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 100.92
+      value: 102.1
       objectReference: {fileID: 0}
     - target: {fileID: 2753722846259439681, guid: 070095bfedf139b42979536db6a4f68e, type: 3}
       propertyPath: m_LocalRotation.w
@@ -12410,6 +12660,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (164)
@@ -12632,7 +12886,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 149.47
+      value: 148.87
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.y
@@ -12640,7 +12894,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 106.51
+      value: 104.17
       objectReference: {fileID: 0}
     - target: {fileID: 2171175675359748457, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_LocalRotation.w
@@ -12670,6 +12924,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (161)
@@ -12809,114 +13067,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
---- !u!1 &1936012794
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1936012798}
-  - component: {fileID: 1936012797}
-  - component: {fileID: 1936012796}
-  - component: {fileID: 1936012795}
-  m_Layer: 0
-  m_Name: Cube (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!65 &1936012795
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1936012794}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!23 &1936012796
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1936012794}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &1936012797
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1936012794}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &1936012798
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1936012794}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 25.482, y: 5.87, z: 110.71}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1938155689
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13476,6 +13626,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (31)
@@ -13610,6 +13764,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (23)
@@ -14129,7 +14287,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 7a7de80d4ec05f44ab559112cc77de2b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -14685,6 +14843,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (168)
@@ -14746,6 +14908,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3177133522915986649, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d597c5e7d7045f64da45f409ce9ea1ad, type: 2}
     - target: {fileID: 3362492012870811753, guid: e90115fcf3e55764682dff48bacaeeef, type: 3}
       propertyPath: m_Name
       value: MEGACUBE (25)
@@ -14819,7 +14985,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: ef908017cfdfbc64580ee89d1f5b0920, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -15113,7 +15279,6 @@ SceneRoots:
   - {fileID: 724280554}
   - {fileID: 1847211021}
   - {fileID: 1152796586}
-  - {fileID: 1936012798}
   - {fileID: 1388347018}
   - {fileID: 16860934}
   - {fileID: 918946838}
@@ -15273,3 +15438,4 @@ SceneRoots:
   - {fileID: 1857430141}
   - {fileID: 210292202}
   - {fileID: 1364482646}
+  - {fileID: 1069397667}
