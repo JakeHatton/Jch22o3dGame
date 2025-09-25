@@ -5,3 +5,5 @@ https://polyhaven.com/a/stone_wall_05
 
 The something extra I tried to add was sppedrunning in a sense by trying to use a timer. I don't really know how to code or do art, so I thought of one of my hobbies that I do for fun and it made me want to make a game where you try to get the best time
 possible and even compete with your friends or something like that. While its not as flashy as my own texture or code, I tried to make it close to something that I personally love doing.
+
+P.S. I keep doing git add, commit, push but for some reason the changes aren't seen on the main branch. 
